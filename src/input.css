@@ -1,5 +1,6 @@
 @import "tailwindcss";
 
 @theme{
-    --font-principal: 30px;
+    --color-azul-01:  #000DFF;
+    --color-laranja-02: #FF5A13;
 }
